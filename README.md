@@ -23,23 +23,34 @@
 ### 🚀 **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)  
 ![C](https://img.shields.io/badge/-C-informational?logo=c&logoColor=white&style=for-the-badge)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white&style=for-the-badge)  
 
+
+---
 ### ⚡ **IoT & Embedded Systems**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)  
 ![ESP32](https://img.shields.io/badge/-ESP32-black?logo=espressif&logoColor=white&style=for-the-badge)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)    
+
+---  
 🔹 **Microcontrollers** — Arduino, ESP32, Raspberry Pi for smart automation  
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)   
+
+---
 🔹 **Embedded Programming** — C, Python for IoT, MQTT for device communication  
 
-![IoT](https://img.shields.io/badge/-IoT-00ADD8?logo=internet-of-things&logoColor=white&style=for-the-badge)  
+![IoT](https://img.shields.io/badge/-IoT-00ADD8?logo=internet-of-things&logoColor=white&style=for-the-badge)   
+
+---
 🔹 **Sensors & Actuators** — Ultrasonic, PIR, Temperature, Gauge sensors for real-time monitoring  
 
-![Automation](https://img.shields.io/badge/-Automation-5A5A5A?logo=home-assistant&logoColor=white&style=for-the-badge)  
+![Automation](https://img.shields.io/badge/-Automation-5A5A5A?logo=home-assistant&logoColor=white&style=for-the-badge)    
+
+---
 🔹 **Automation & Control** — Smart home systems & industrial IoT automation  
 
 🛠️ **Projects:** [Smart Farm Security](#) 🚜 | [Voice-Controlled Door System](#) 🚪  
@@ -56,7 +67,9 @@
 ![Data Science](https://img.shields.io/badge/-Data%20Science-1F618D?logo=dataiku&logoColor=white&style=for-the-badge)  
 🔹 **Data Science** — Pandas, NumPy, Matplotlib for data visualization & analysis  
 
-🛠️ **Projects:** [Anomaly Detection for Industrial IoT](#) 🏭 | [Face Recognition Unlock System](#) 🔓    
+🛠️ **Projects:** [Anomaly Detection for Industrial IoT](#) 🏭 | [Face Recognition Unlock System](#) 🔓   
+
+---
 
 ### 🌐 **Web Development**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
@@ -110,6 +123,26 @@
 🔹 **GitHub Repo:** [View Project](https://github.com/your-repo-link)  
 
 ---
+### 🌟 VibeSync – Mood-Based Quote & Music Recommender  
+> *"हर मूड के लिए सही अहसास – शब्दों में भी, सुरों में भी! 🎶💬"*
+
+🔹 **Tech Used**: Python, Machine Learning, Flask, Spotify API  
+
+🔹 **Description**:  
+VibeSync is an intelligent web app that detects your mood and offers **motivational quotes** and **personalized music tracks** using the **Spotify API** — turning emotions into empowering experiences.
+
+🔹 **Key Features**:  
+- 🧠 Mood detection via sentiment analysis or emotion input  
+- 💬 Inspirational quotes tailored to user’s mood  
+- 🎵 Spotify-powered music recommendations that resonate with your feelings  
+- 🌐 Clean, responsive user interface  
+
+🔹 **Use Case**:  
+Mental wellness, self-care apps, mood journaling, music therapy  
+
+🔹 **GitHub Repo**:  
+[View Project](https://github.com/CHANCHALCHAVHAN/VibeSync-Smart-AI-Mood-Based-Quote-Music-Recommender)
+
 
 ## 📊 **GitHub Stats & Activity**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHANCHALCHAVHAN&theme=radical)  
