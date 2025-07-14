@@ -143,7 +143,7 @@ Mental wellness, self-care apps, mood journaling, music therapy
 🔹 **GitHub Repo**:  
 [View Project](https://github.com/CHANCHALCHAVHAN/VibeSync-Smart-AI-Mood-Based-Quote-Music-Recommender)
 
-
+------
 ## 📊 **GitHub Stats & Activity**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHANCHALCHAVHAN&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANCHALCHAVHAN&show_icons=true&theme=radical)  
