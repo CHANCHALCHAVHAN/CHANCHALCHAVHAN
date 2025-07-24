@@ -152,7 +152,7 @@ Mental wellness, self-care apps, mood journaling, music therapy
 ---
 
 ## 🌍 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChanchalChavhan-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/chanchal-karna-chavhan-b2013928b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChanchalChavhan-blue?logo=linkedin&style=for-the-badge)]([www.linkedin.com/in/chanchal-karna-chavhan-b2013928b](https://www.linkedin.com/in/chanchal-karna-chavhan-b2013928b/))  
 [![GitHub](https://img.shields.io/badge/GitHub-ChanchalChavhan-black?logo=github&style=for-the-badge)](https://github.com/CHANCHALCHAVHAN)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-ChanchalChavhan-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/your-profile)  
 
