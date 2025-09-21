@@ -6,18 +6,36 @@
 
 ---
 
+   <!-- Horizontal badges with spacing, rounded corners, and color variety -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/chanchal-karna-chavhan-b2013928b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  <!-- Row 1 -->
+  <a href="https://www.linkedin.com/in/chanchal-karna-chavhan-b2013928b/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"
+         alt="LinkedIn"
+         style="border-radius: 20px; margin: 8px;" />
   </a>
-  <a href="https://github.com/CHANCHALCHAVHAN" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge&logoColor=white" alt="GitHub"/>
+
+  <a href="https://github.com/CHANCHALCHAVHAN" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-Follow-333333?logo=github&style=for-the-badge&logoColor=white"
+         alt="GitHub"
+         style="border-radius: 20px; margin: 8px;" />
   </a>
-  <a href="https://leetcode.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge&logoColor=white" alt="LeetCode"/>
+
+  <a href="https://leetcode.com/u/Chanchal_Chavhan/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?logo=leetcode&style=for-the-badge&logoColor=white"
+         alt="LeetCode"
+         style="border-radius: 20px; margin: 8px;" />
   </a>
 </p>
 
+<p align="center">
+  <!-- Row 2 -->
+  <a href="https://unstop.com/practice/coding" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Unstop-Rank%20%3A%2097%20%E2%80%A2%2034%2C790%20Pts-ff6b6b?style=for-the-badge&logo=trophy&logoColor=white"
+         alt="Unstop"
+         style="border-radius: 20px; margin: 8px;" />
+  </a>
+</p>
 ---
  
 ### **"Code with Purpose. Build with Passion. Lead with Innovation."**  
@@ -111,9 +129,12 @@
 
 ## 🏆 Highlights & Recognition
 
-🏅 **Smart India Hackathon 2024** – IoT-Driven Cybersecurity  
-🏆 **TATA Crucible Quiz** – Tech + Business Champion  
-🚀 **Google Developer Challenges** – AI Innovation Contributor  
+- **Finalist** — Infotsav 2025 (IIIT Gwalior) — *powered by GitHub*  
+- **Semifinalist** — Empressario 2025 (IIT Kharagpur)  
+- **3rd Place** — Techfest 2024  
+- **Smart India Hackathon 2024** – IoT-Driven Cybersecurity  
+- **TATA Crucible Quiz** – Tech + Business Champion  
+- **Google Developer Challenges** – AI Innovation Contributor
 
 ---
 
@@ -126,6 +147,7 @@
 </p>
 
 ---
+
 
 ## 💬 Final Note  
 
