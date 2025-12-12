@@ -5,7 +5,11 @@
 > *"Where Innovation Meets Impact, And Ideas Turn Into Action!"*
 
 ---
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
    <!-- Horizontal badges with spacing, rounded corners, and color variety -->
 <p align="center">
   <!-- Row 1 -->
