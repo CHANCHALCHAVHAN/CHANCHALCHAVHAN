@@ -130,6 +130,46 @@
 🔗 [GitHub](https://github.com/CHANCHALCHAVHAN/VibeSync-Smart-AI-Mood-Based-Quote-Music-Recommender)
 
 ---
+## 🛠️ Projects
+> Click to expand, then hit the buttons.
+
+<details open>
+<summary><b>🚀 Highlight Projects</b></summary>
+<br/>
+
+**📦 StockPilot — Your Smart Inventory Manager**  
+**Theory:** Track stock-in/out, monitor availability, and simplify inventory decisions with a clear dashboard approach.  
+[![Open Repo](https://img.shields.io/badge/OPEN-0ea5e9?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/StockPilot-Your-Smart-Inventory-Manager)
+
+**🎧 VibeSync — AI Mood Based Quote & Music**  
+**Theory:** Mood-based recommender that maps user emotion/input to curated quotes + music using ML/NLP or rule-based matching.  
+[![Open Repo](https://img.shields.io/badge/OPEN-a855f7?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/VibeSync-Smart-AI-Mood-Based-Quote-Music-Recommender)
+
+**🚦 RushResQ — Smart AI IoT Traffic System**  
+**Theory:** Dynamic traffic-control concept using sensors/vision + decision logic to reduce congestion and prioritize emergency response.  
+[![Open Repo](https://img.shields.io/badge/OPEN-f97316?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/RushResQ-Smart-AI-IoT-Traffic-Management-System)
+
+**🛰️ RayAura — Smart Vision (Detect • Navigate • Protect)**  
+**Theory:** Vision-based safety/monitoring idea focused on real-time detection, alerts, and risk-aware situational intelligence.  
+[![Open Repo](https://img.shields.io/badge/OPEN-22c55e?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/RayAura---Navigate-Detect-Protect-The-Future-of-Smart-Vision.)
+
+**❤️ CardioGaurd — Web App**  
+**Theory:** Heart-risk prediction web app that takes health metrics and returns a risk score with simple insights/visual feedback.  
+[![Open Repo](https://img.shields.io/badge/OPEN-ef4444?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/CardioGaurd-Heart-risk-detection-web-app)
+
+**🫀 CardioGaurd — App**  
+**Theory:** Mobile-friendly version of heart-risk screening—collect inputs, run model/API prediction, and show a clear risk summary.  
+[![Open Repo](https://img.shields.io/badge/OPEN-dc2626?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/CardioGaurd-Heart-risk-detection-app)
+
+**🌾 Smart Farm — Intrusion Detection & Security**  
+**Theory:** IoT + security system for farms that detects intrusion (sensor/camera), triggers alerts, and supports remote monitoring.  
+[![Open Repo](https://img.shields.io/badge/OPEN-16a34a?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/Smart-Farm-Intrusion-detection-and-Security-System)
+
+**🎓 SHIKSHAK MITRA AI**  
+**Theory:** AI-powered education assistant concept for learning support—summaries, Q&A, quiz creation, and study guidance.  
+[![Open Repo](https://img.shields.io/badge/OPEN-3b82f6?style=for-the-badge&logo=github)](https://github.com/CHANCHALCHAVHAN/SHIKSHAK-MITRA-AI)
+
+</details>
 
 ## 🏆 Highlights & Recognition
 
